@@ -4,6 +4,9 @@
 ### Problem Description
 This project is aimed at predicting the case of customers default payments.
 
+##
+
+
 ### Data Description
 ##### Attribute Information
 Data has one target variable and 23 variables as explanatory variables: 
@@ -20,7 +23,7 @@ BILL_AMT1 - BILL_AMT6 : Amount of Bill statement. (BILL_AMT1 - Bill statement in
 
 PAY_AMT1 - PAY_AMT6 : Amount of previous payment (PAY_AMT1 - amount payed in Sept, 2005; ... PAY_AMT6 - amount payed in April, 2005)
 
-
+##
 
 ##### Detailed Information
 PAY_1: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,8=payment delay for eight - months, 9=payment delay for nine months and above)
